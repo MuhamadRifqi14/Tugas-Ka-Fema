@@ -1,0 +1,28 @@
+head{
+    background-color: white;
+}
+
+img{
+    margin-left: 500px;
+    margin-bottom: 50px;
+    border-radius: 50px;
+    margin-top: 45px;
+    width: 100px;
+    height: auto; 
+}
+
+.atas{
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.h2{
+    margin-left: 350px;
+    margin-bottom: 40px;
+}
+.footer{
+    background-color: black;
+    
+}
+ul{
+    color: white;
+}
